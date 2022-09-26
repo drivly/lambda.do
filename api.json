@@ -1,0 +1,14 @@
+{
+  "name": "lambda.do",
+  "description": "Instant Globally-distributed Lambda Functions as APIs",
+  "url": "null/api",
+  "type": "https://apis.do/api",
+  "endpoints": {
+    "api": "null/api"
+  },
+  "site": null,
+  "login": "null/login",
+  "signup": "null/signup",
+  "subscribe": "null/subscribe",
+  "repo": "https://github.com/drivly/lambda.do"
+}
